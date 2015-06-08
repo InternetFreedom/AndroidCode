@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kemihambolu/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.52/4988681cd939d45f88cb56a0806ad4064e621d1c/jsch-0.1.52.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4988681cd939d45f88cb56a0806ad4064e621d1c">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/jsch-0.1.52-b03b33adc38710f5a05e5234ba8ba44ad761f226.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2079fea5c835326c044a2dfe9a679d2e7ab54447.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2079fea5c835326c044a2dfe9a679d2e7ab54447.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/classes-f69370f4d68dacafd237acab69943191ef95a444.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/classes-f69370f4d68dacafd237acab69943191ef95a444.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/.gradle/caches/modules-2/files-2.1/com.maxmind.geoip/geoip-api/1.2.14/9f1785dd5394b0fa7de6b71f4eff8e8ed6c5ec21/geoip-api-1.2.14.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9f1785dd5394b0fa7de6b71f4eff8e8ed6c5ec21">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/geoip-api-1.2.14-ab9f0dd5c4d8930fabc5f1f7ff4842350044b110.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/classes-c959a997cb4404c97d485930d1a420e2abf2b4ff.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/classes-c959a997cb4404c97d485930d1a420e2abf2b4ff.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/commons-io-2.4-9adc2806207aea2595ec09654f19c17fb4456c46.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/Documents/Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d5931ebf5ea8cd8a5bca528d01f18f83e2f51a5e.jar" />
+    </item>
+    <item
+        jar="/Users/kemihambolu/Documents/Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/kemihambolu/AndroidStudioProjects/FreeClient2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d5931ebf5ea8cd8a5bca528d01f18f83e2f51a5e.jar" />
+    </item>
+
+</items>

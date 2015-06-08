@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.freedom.freeclient.freeclient.SettingsActivity"
+    android:background="#f0f02f1d">
+    >
+
+    <TextView android:text="HOME COUNTRY" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold|italic"
+        android:textSize="30dp"
+        android:typeface="monospace"
+        android:id="@+id/textView"
+        android:padding="5dp"
+        android:autoText="false"
+        android:password="false"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Tap The Paw To Select"
+        android:textStyle="italic"
+        android:id="@+id/textView2"
+        android:padding="5dp"
+        android:autoText="false"
+        android:textColor="#fffff5f4"
+        android:layout_above="@+id/countryDropDown"
+        android:layout_centerHorizontal="true" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/countryDropDown"
+        android:background="@drawable/tigerpaw"
+        android:spinnerMode="dropdown"
+        android:layout_above="@+id/saveBtn"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="62dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/saveBtn"
+        android:onClick="onSaveSetting"
+        android:textStyle="bold|italic"
+        android:textColor="#ffffffff"
+        android:background="#ff0099cc"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/countryDropDown"
+        android:layout_alignEnd="@+id/countryDropDown" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:id="@+id/cancelBtn"
+        android:textStyle="bold|italic"
+        android:textColor="#ffffffff"
+        android:background="#ff0099cc"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_alignParentBottom="true"
+        android:layout_alignTop="@+id/saveBtn"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

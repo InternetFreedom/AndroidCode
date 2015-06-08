@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+    <country id="01">BENIN </country>
+    <country id="02">BURKINA FASO </country>
+    <country id="03">CAMEROON </country>
+    <country id="19">CENTRAL AFRICAN REPUBLIC </country>
+    <country id="04">CHAD </country>
+    <country id="06">DJIBOUTI </country>
+    <country id="08">EQUATORIAL GUINEA </country>
+    <country id="07">FRANCE </country>
+    <country id="18">GABON </country>
+    <country id="09">GAMBIA </country>
+    <country id="10">GUINEA CONAKRY </country>
+    <country id="05">IVORY COAST</country>
+    <country id="11">LIBERIA </country>
+    <country id="12">NETHERLANDS</country>
+    <country id="13">NIGERIA </country>
+    <country id="14">NORWAY </country>
+    <country id="15">SENEGAL </country>
+    <country id="16">TOGO </country>
+    <country id="17">UGANDA </country>
+    <country id="20">US </country>
+    <country id="21">Other</country>
+
+</countries>

@@ -159,6 +159,7 @@ public class ConnectActivity extends ActionBarActivity {
             URL u = null;
             HttpsURLConnection huc = null;
             try {
+                System.out.println("got here test connection");
                 HttpsURLConnection.setDefaultHostnameVerifier(new HostnameVerifier(){
                     public boolean verify(String hostname, SSLSession session) {
                         return true;

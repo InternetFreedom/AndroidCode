@@ -20,7 +20,7 @@ public class Config {
     public static final String APP_DIR="freeclient";
     public static final String fileName = "id_rsa";
     public static final String certName = "certreq.csr";
-    public final static String user = "POW";
+    public final static String user = "7Z5";
     public final static String host = "192.168.99.1";
     private static boolean internalStorage = true;
     private static String storageDir;
